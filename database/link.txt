@@ -1,6 +1,0 @@
-mongodb+srv://cookbook:JFvAlzCQFqKz3vPS@cluster0.yfudibg.mongodb.net/?retryWrites=true&w=majority
-
-
-mongodb+srv://cookbook:mrtvola123@cluster0.yfudibg.mongodb.net/test
-
-mongodb+srv://cookbook:JFvAlzCQFqKz3vPS@cluster0.yfudibg.mongodb.net/?retryWrites=true&w=majority
